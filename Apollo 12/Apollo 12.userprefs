@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Loader.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LanderControl.cs" Line="116" Column="4" />
+      <File FileName="..\..\Documents\New Unity Project\Assets\Transforms.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIMan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LauncherScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GroundMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RockLauncher.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadGameScript.js" Line="1" Column="1" />
+      <File FileName="..\..\Documents\New Unity Project\Assets\Asteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TheRock.cs" Line="9" Column="38" />
+      <File FileName="Assets\Loader.cs" Line="18" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

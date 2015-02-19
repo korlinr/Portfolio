@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 87571d4b6473fd34485fc63365654a8f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Object008
+    100002: Object009
+    100004: Object010
+    100006: Object011
+    100008: Object012
+    100010: Object013
+    100012: Object014
+    100014: Object018
+    100016: //RootNode
+    100018: stage 1
+    100020: Stage 2
+    100022: Stage 2 Initiation
+    100024: Stage 3
+    100026: Stage 3 Initiation
+    400000: Object008
+    400002: Object009
+    400004: Object010
+    400006: Object011
+    400008: Object012
+    400010: Object013
+    400012: Object014
+    400014: Object018
+    400016: //RootNode
+    400018: stage 1
+    400020: Stage 2
+    400022: Stage 2 Initiation
+    400024: Stage 3
+    400026: Stage 3 Initiation
+    2300000: Object008
+    2300002: Object009
+    2300004: Object010
+    2300006: Object011
+    2300008: Object012
+    2300010: Object013
+    2300012: Object014
+    2300014: Object018
+    2300016: stage 1
+    2300018: Stage 2
+    2300020: Stage 2 Initiation
+    2300022: Stage 3
+    2300024: Stage 3 Initiation
+    3300000: Object008
+    3300002: Object009
+    3300004: Object010
+    3300006: Object011
+    3300008: Object012
+    3300010: Object013
+    3300012: Object014
+    3300014: Object018
+    3300016: stage 1
+    3300018: Stage 2
+    3300020: Stage 2 Initiation
+    3300022: Stage 3
+    3300024: Stage 3 Initiation
+    4300000: stage 1
+    4300002: Stage 3 Initiation
+    4300004: Stage 2 Initiation
+    4300006: Stage 2
+    4300008: Stage 3
+    4300010: Object008
+    4300012: Object009
+    4300014: Object010
+    4300016: Object011
+    4300018: Object012
+    4300020: Object013
+    4300022: Object014
+    4300024: Object018
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
